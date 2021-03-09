@@ -502,7 +502,7 @@
 											</wcs:CoverageId>
 											<wcs:Extension>
 												<scal:ScaleByFactor>
-													<scal:scaleFactor>2.0</scal:scaleFactor>
+													<scal:scaleFactor>0.5</scal:scaleFactor>
 												</scal:ScaleByFactor>
 											</wcs:Extension>
 										</wcs:GetCoverage>
